@@ -7,3 +7,5 @@
 # 3. Add another print statement with your favorite hobby.
 
 print("Hello, world!")
+print("I'm Katie!")
+print("I really enjoy creative writing, and that seems useful due to the presence of writing assignments in this course!")
